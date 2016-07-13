@@ -1,0 +1,32 @@
+{
+  "github_auth_key": "",
+  "repo_owner": "unb-libraries",
+  "source": {
+    "repo_name": "pmportal.org",
+    "commits": [
+      "0f0072d7581ce316cf19568498cb6a87578f7453"
+    ]
+  },
+  "targets": [
+    {
+      "repo_name": "motty.lib.unb.ca",
+      "branch": "dev"
+    },
+    {
+      "repo_name": "womenactivists.lib.unb.ca",
+      "branch": "dev"
+    },
+    {
+      "repo_name": "loyalistresearchnet.org",
+      "branch": "dev"
+    },
+    {
+      "repo_name": "unbherbarium.ca",
+      "branch": "dev"
+    },
+    {
+      "repo_name": "educationhistory.lib.unb.ca",
+      "branch": "dev"
+    }
+  ]
+}
